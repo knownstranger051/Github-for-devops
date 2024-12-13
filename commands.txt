@@ -1,0 +1,25 @@
+get init
+git init
+ls -a
+clear
+git status
+ls
+clear
+git status
+git add testing.py
+git status
+git rm --cached testing.py
+git status
+git add .
+git status
+git commit -m "added testing files"
+git config --global user.email zamanfaisal051@gmail.com
+git config --global user.name Knownstranger
+git commit -m "added testing files"
+git status
+rm testing.py
+git status
+git restore testing.py
+git status
+clear
+history
