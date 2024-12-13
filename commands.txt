@@ -28,3 +28,5 @@ git status
 git commit -m "added git commands"
 git status
 git remote add origin https:/
+
+this is some new changes
