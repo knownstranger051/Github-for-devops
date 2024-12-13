@@ -1,4 +1,4 @@
-get init
+iget init
 git init
 ls -a
 clear
@@ -23,3 +23,8 @@ git restore testing.py
 git status
 clear
 history
+git add commands.txt
+git status
+git commit -m "added git commands"
+git status
+git remote add origin https:/
